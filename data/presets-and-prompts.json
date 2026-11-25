@@ -1,0 +1,211 @@
+{
+  "project": "GTA 6 Filter",
+  "site_url": "https://gta6filter.online/",
+  "llms_txt": "https://gta6filter.online/llms.txt",
+  "sitemap_xml": "https://gta6filter.online/sitemap.xml",
+  "updated": "2026-11-25",
+  "aspect_ratios": [
+    {
+      "ratio": "3:4",
+      "label": "Portrait & Box Cover Art",
+      "best_for": "GTA box cover posters, Instagram feed posts, solo & couple portraits",
+      "recommended_url": "https://gta6filter.online/gta-6-poster-maker"
+    },
+    {
+      "ratio": "1:1",
+      "label": "Square Avatar & PFP",
+      "best_for": "Discord avatars, TikTok profile pictures, PSN / Xbox / Steam gamer icons",
+      "recommended_url": "https://gta6filter.online/gta-6-pfp"
+    },
+    {
+      "ratio": "16:9",
+      "label": "Widescreen Key Art & Thumbnail",
+      "best_for": "YouTube thumbnails, Twitch stream screens, desktop loading screens",
+      "recommended_url": "https://gta6filter.online/gta-6-thumbnail-maker"
+    },
+    {
+      "ratio": "9:16",
+      "label": "Vertical Reels, TikTok & Shorts",
+      "best_for": "TikTok GTA 6 Screen AI clips, Instagram Reels, YouTube Shorts, phone lockscreens",
+      "recommended_url": "https://gta6filter.online/gta-6-loading-screen-video"
+    },
+    {
+      "ratio": "4:3",
+      "label": "Classic Console Framing",
+      "best_for": "Retro Vice City loading screen compositions and panoramic squad shots",
+      "recommended_url": "https://gta6filter.online/gta-loading-screen-ai"
+    }
+  ],
+  "stylizer_modes": [
+    {
+      "id": "standard",
+      "name": "Standard (Identity & Outfit Lock)",
+      "description": "Preserves exact facial geometry, skin tone, hairstyle, glasses, and original clothing while converting lighting and linework into cel-shaded Vice City ink art."
+    },
+    {
+      "id": "detailed",
+      "name": "Detailed (Full Leonida Makeover)",
+      "description": "Keeps facial likeness recognizable while upgrading wardrobe, accessories, tropical rim lighting, and Vice City vehicles to full key-art intensity."
+    }
+  ],
+  "photo_presets": [
+    {
+      "id": "loading-screen",
+      "name": "Loading Screen",
+      "categories": ["hot", "solo"],
+      "max_people": 1,
+      "default_ratio": "3:4",
+      "studio_url": "https://gta6filter.online/gta-loading-screen-ai",
+      "summary": "Classic hand-painted GTA loading-screen portrait with bold ink outlines, cel shading, and a pink-purple Leonida sunset.",
+      "prompt_template": "Stylized Vice City cel-shaded loading-screen illustration with crisp hand-inked contours and warm graphic novel shading. Subject leaning casually beside a vintage pastel-coral convertible parked along an Ocean Drive palm promenade, dramatic purple-to-flamingo-pink-to-golden Leonida sunset sky, warm golden rim light across cheekbones and shoulders. Preserve exact facial identity and expression. Clean full-bleed artwork, no text, no logos, no watermarks."
+    },
+    {
+      "id": "vice-city-neon",
+      "name": "Vice City Neon",
+      "categories": ["hot", "solo"],
+      "max_people": 1,
+      "default_ratio": "3:4",
+      "studio_url": "https://gta6filter.online/gta-6-photo-generator",
+      "summary": "Night-time Ocean Drive boulevard drenched in hot magenta and electric cyan neon reflections on wet asphalt.",
+      "prompt_template": "Stylized Vice City cel-shaded key-art portrait on a rain-slicked midnight Ocean Drive boulevard, glowing hot-magenta and electric-cyan Art Deco hotel neon signs reflecting vividly on wet asphalt puddles, sleek exotic sports car headlights in soft background bokeh, dual cyan-and-pink neon rim lighting on the subject. Preserve exact facial identity. Clean full-bleed artwork, no text, no logos, no watermarks."
+    },
+    {
+      "id": "cover-art",
+      "name": "Cover Art",
+      "categories": ["hot", "action"],
+      "max_people": 1,
+      "default_ratio": "3:4",
+      "studio_url": "https://gta6filter.online/gta-6-poster-maker",
+      "summary": "Multi-panel comic box-cover framing with bold black diagonal borders, helicopter searchlight, speedboats, and palm silhouettes.",
+      "prompt_template": "Multi-panel Vice City comic-poster cover composition divided by bold black diagonal borders: central hero portrait of the subject in the main foreground panel, surrounded by dynamic coastal panels showing palm silhouettes, a helicopter searchlight at dusk, a speedboat cutting turquoise waves, and pastel Art Deco hotels. Preserve exact facial likeness. Clean full-bleed poster, no title text, no logos, no watermarks."
+    },
+    {
+      "id": "couple-cover",
+      "name": "Couple Cover",
+      "categories": ["hot", "duo"],
+      "max_people": 2,
+      "default_ratio": "3:4",
+      "studio_url": "https://gta6filter.online/gta-6-couple-filter",
+      "summary": "Two-person Lucia & Jason inspired duo poster leaning against a classic muscle car under purple-pink coastal palms.",
+      "prompt_template": "Two-person romantic crime-drama duo portrait inspired by tropical Vice City cover art: both subjects leaning together against the hood of a vintage American muscle car under swaying palm trees and a vivid pink-purple-amber coastal sunset. Keep each person's distinct facial identity, hairstyle, and skin tone 100% separate and recognizable without merging features. Clean full-bleed artwork, no text, no logos, no watermarks."
+    },
+    {
+      "id": "five-star-wanted",
+      "name": "5-Star Wanted",
+      "categories": ["hot", "action"],
+      "max_people": 1,
+      "default_ratio": "16:9",
+      "studio_url": "https://gta6filter.online/gta-6-thumbnail-maker",
+      "summary": "High-adrenaline pursuit key art with red-and-blue police cruiser strobes, drifting tire smoke, and low-angle framing.",
+      "prompt_template": "High-adrenaline low-angle Vice City pursuit key-art composition: flashing red-and-blue police cruiser lightbars and drifting pursuit cars with dynamic comic motion streaks behind the subject, dramatic red-blue rim strobes, drifting tire smoke, five small glowing white star icons cleanly in the top-right HUD corner only. Preserve exact facial identity. No brand logos, no title text, no watermarks."
+    },
+    {
+      "id": "in-game-selfie",
+      "name": "In-Game Selfie",
+      "categories": ["hot", "solo"],
+      "max_people": 1,
+      "default_ratio": "1:1",
+      "studio_url": "https://gta6filter.online/gta-6-pfp",
+      "summary": "Vice City luxury penthouse balcony selfie complete with circular mini-map radar HUD and crisp cel-shaded contours.",
+      "prompt_template": "Stylized front-camera smartphone selfie perspective on a luxury ocean-view Vice City penthouse balcony at sunset, featuring a clean diegetic open-world game HUD overlay with a circular pastel street mini-map radar and pink/green health-armor bar in the bottom-left corner. Preserve exact facial identity. No brand title logos, no watermarks."
+    },
+    {
+      "id": "vice-city-crew",
+      "name": "Vice City Crew",
+      "categories": ["duo"],
+      "max_people": 4,
+      "default_ratio": "16:9",
+      "studio_url": "https://gta6filter.online/gta-loading-screen-ai",
+      "summary": "Assemble up to 4 friends into one panoramic heist crew loading screen in front of custom rides at dusk.",
+      "prompt_template": "Panoramic squad loading-screen illustration: assemble all subjects from the reference photo(s) standing shoulder-to-shoulder as an iconic Vice City heist crew in front of customized muscle cars and sports rides under purple-gold dusk palm skies, preserving every individual's distinct facial identity and hairstyle. Clean full-bleed artwork, no text, no logos, no watermarks."
+    },
+    {
+      "id": "wanted-mugshot",
+      "name": "Wanted Mugshot",
+      "categories": ["solo", "action"],
+      "max_people": 1,
+      "default_ratio": "1:1",
+      "studio_url": "https://gta6filter.online/gta-6-pfp",
+      "summary": "Leonida County booking portrait in front of a height chart holding a numeric slate in crisp cel-shaded ink.",
+      "prompt_template": "Front-facing booking portrait inside a gritty coastal sheriff station standing in front of a horizontal black-and-white height measurement wall chart (5'0\" to 6'6\"), harsh overhead flash lighting, cel-shaded ink lines, subject holding a dark booking slate with numeric code 'VC-0626' only. Preserve exact facial identity. No brand logos, no watermarks."
+    },
+    {
+      "id": "jet-ski-chase",
+      "name": "Jet Ski Chase",
+      "categories": ["action"],
+      "max_people": 1,
+      "default_ratio": "16:9",
+      "studio_url": "https://gta6filter.online/gta-6-thumbnail-maker",
+      "summary": "Full-throttle bay watercraft run with ocean spray, chopper spotlight, and a glowing Vice City twilight skyline.",
+      "prompt_template": "Dynamic three-quarter action shot carving across glowing twilight bay waters on a high-powered watercraft, crystalline ocean spray splashing in foreground, helicopter spotlight beam sweeping across purple-orange sunset clouds and the glowing Vice City skyline behind. Preserve exact facial identity. Clean full-bleed artwork, no text, no logos, no watermarks."
+    },
+    {
+      "id": "leonida-beach",
+      "name": "Leonida Beach",
+      "categories": ["solo"],
+      "max_people": 1,
+      "default_ratio": "3:4",
+      "studio_url": "https://gta6filter.online/gta-6-photo-generator",
+      "summary": "Sun-drenched Leonida Keys daylight look with turquoise bay water, swaying coconut palms, and golden skin highlights.",
+      "prompt_template": "Sun-drenched Leonida Keys coastal boardwalk in bright tropical late-afternoon light, crystal-clear turquoise bay water, tall swaying coconut palms, distant white speedboats, crisp warm golden-hour sunlight and vibrant cel-shaded coastal palette. Preserve exact facial identity. Clean full-bleed artwork, no text, no logos, no watermarks."
+    }
+  ],
+  "video_scenes": [
+    {
+      "id": "trailer-shot",
+      "name": "Trailer Shot",
+      "camera_motion": "Slow Push-In Parallax",
+      "max_people": 1,
+      "studio_url": "https://gta6filter.online/gta-6-loading-screen-video",
+      "summary": "Signature GTA loading-screen parallax zoom with drifting pink-gold sunset clouds, swaying palms, and retro-synth audio."
+    },
+    {
+      "id": "night-cruise",
+      "name": "Night Cruise",
+      "camera_motion": "Lateral Tracking Pan",
+      "max_people": 1,
+      "studio_url": "https://gta6filter.online/gta-6-loading-screen-video",
+      "summary": "Cruising down midnight Ocean Drive in a drop-top convertible as magenta and cyan hotel neon ripples across the hood."
+    },
+    {
+      "id": "police-chase",
+      "name": "Police Chase",
+      "camera_motion": "Handheld Siren Action",
+      "max_people": 1,
+      "studio_url": "https://gta6filter.online/gta-6-loading-screen-video",
+      "summary": "Rhythmic red-and-blue police cruiser lightbars, drifting pursuit headlights, and cinematic bass pulse."
+    },
+    {
+      "id": "beach-party",
+      "name": "Beach Party",
+      "camera_motion": "Golden-Hour Orbital Arc",
+      "max_people": 1,
+      "studio_url": "https://gta6filter.online/gta-6-loading-screen-video",
+      "summary": "Warm Leonida Keys sun flares, gentle sea-breeze hair motion, and speedboats gliding across turquoise bay water."
+    },
+    {
+      "id": "selfie-vlog",
+      "name": "Selfie Vlog",
+      "camera_motion": "POV Handheld Walk",
+      "max_people": 1,
+      "studio_url": "https://gta6filter.online/gta-6-loading-screen-video",
+      "summary": "Handheld character POV walking casually along a vibrant Vice City sunset beachfront promenade."
+    },
+    {
+      "id": "crew-walk",
+      "name": "Crew Walk",
+      "camera_motion": "Low-Angle Slow-Mo Pullback",
+      "max_people": 3,
+      "studio_url": "https://gta6filter.online/gta-6-loading-screen-video",
+      "summary": "Up to 3 friends walking forward side-by-side in synchronized slow motion in front of custom muscle cars at dusk."
+    },
+    {
+      "id": "jet-ski-pursuit",
+      "name": "Jet Ski Pursuit",
+      "camera_motion": "Low-Angle Water Tracking",
+      "max_people": 1,
+      "studio_url": "https://gta6filter.online/gta-6-loading-screen-video",
+      "summary": "Sparkling bay spray skimming past the lens while a helicopter searchlight sweeps across the sunset skyline."
+    }
+  ]
+}

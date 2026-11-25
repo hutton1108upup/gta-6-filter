@@ -1,0 +1,206 @@
+{
+  "site": "GTA 6 Filter",
+  "base_url": "https://gta6filter.online",
+  "updated": "2026-11-25",
+  "total_indexable_routes": 19,
+  "routes": [
+    {
+      "path": "/",
+      "url": "https://gta6filter.online/",
+      "category": "studio",
+      "title": "GTA 6 Filter — Online AI Photo & Video Art Maker",
+      "default_preset": "loading-screen",
+      "default_ratio": "3:4",
+      "primary_keyword": "gta 6 filter",
+      "secondary_keywords": [
+        "gta filter",
+        "gta filter ai",
+        "gta 6 filter online",
+        "gta 6 ai filter",
+        "turn photo into gta style"
+      ]
+    },
+    {
+      "path": "/gta-6-photo-generator",
+      "url": "https://gta6filter.online/gta-6-photo-generator",
+      "category": "studio",
+      "title": "GTA 6 Photo Generator — AI Selfie to Art | GTA 6 Filter",
+      "default_preset": "vice-city-neon",
+      "default_ratio": "3:4",
+      "primary_keyword": "gta 6 photo generator",
+      "secondary_keywords": [
+        "gta 6 ai picture generator",
+        "gta photo generator",
+        "gta style image",
+        "photo to gta 6 art"
+      ]
+    },
+    {
+      "path": "/gta-loading-screen-ai",
+      "url": "https://gta6filter.online/gta-loading-screen-ai",
+      "category": "studio",
+      "title": "GTA Loading Screen AI — Photo to Art Maker | GTA 6 Filter",
+      "default_preset": "loading-screen",
+      "default_ratio": "3:4",
+      "primary_keyword": "gta loading screen ai",
+      "secondary_keywords": [
+        "gta loading screen",
+        "gta 6 loading screen ai",
+        "gta loading screen generator",
+        "turn friend into gta loading screen"
+      ]
+    },
+    {
+      "path": "/gta-6-poster-maker",
+      "url": "https://gta6filter.online/gta-6-poster-maker",
+      "category": "studio",
+      "title": "GTA 6 Poster & Cover Art Maker — 2K HD | GTA 6 Filter",
+      "default_preset": "cover-art",
+      "default_ratio": "3:4",
+      "primary_keyword": "gta 6 cover art",
+      "secondary_keywords": [
+        "gta 6 poster maker",
+        "gta cover art generator",
+        "gta 6 art",
+        "gta comic box cover maker"
+      ]
+    },
+    {
+      "path": "/gta-6-pfp",
+      "url": "https://gta6filter.online/gta-6-pfp",
+      "category": "studio",
+      "title": "GTA 6 PFP Maker — 1:1 Profile Pictures | GTA 6 Filter",
+      "default_preset": "in-game-selfie",
+      "default_ratio": "1:1",
+      "primary_keyword": "gta 6 pfp",
+      "secondary_keywords": [
+        "gta 6 profile picture",
+        "gta pfp maker",
+        "gta discord avatar",
+        "gta tiktok pfp"
+      ]
+    },
+    {
+      "path": "/gta-6-thumbnail-maker",
+      "url": "https://gta6filter.online/gta-6-thumbnail-maker",
+      "category": "studio",
+      "title": "GTA 6 Thumbnail Maker — 16:9 YouTube Art | GTA 6 Filter",
+      "default_preset": "five-star-wanted",
+      "default_ratio": "16:9",
+      "primary_keyword": "gta 6 thumbnail",
+      "secondary_keywords": [
+        "gta 6 thumbnail maker",
+        "gta youtube thumbnail",
+        "16:9 gta key art"
+      ]
+    },
+    {
+      "path": "/gta-6-loading-screen-video",
+      "url": "https://gta6filter.online/gta-6-loading-screen-video",
+      "category": "studio",
+      "title": "GTA 6 Loading Screen Video Maker (No CapCut) — GTA 6 Filter",
+      "default_preset": "trailer-shot",
+      "default_ratio": "9:16",
+      "primary_keyword": "gta 6 loading screen video",
+      "secondary_keywords": [
+        "gta loading screen animation",
+        "gta 6 video filter",
+        "animated gta loading screen"
+      ]
+    },
+    {
+      "path": "/gta-6-couple-filter",
+      "url": "https://gta6filter.online/gta-6-couple-filter",
+      "category": "studio",
+      "title": "GTA 6 Couple Filter — 2P Vice City Poster | GTA 6 Filter",
+      "default_preset": "couple-cover",
+      "default_ratio": "3:4",
+      "primary_keyword": "gta 6 couple filter",
+      "secondary_keywords": [
+        "gta couple poster",
+        "lucia and jason style photo",
+        "2 person gta loading screen"
+      ]
+    },
+    {
+      "path": "/gta-6-ai-prompt-guide",
+      "url": "https://gta6filter.online/gta-6-ai-prompt-guide",
+      "category": "guide",
+      "title": "GTA 6 Filter Prompt Guide: Vice City Presets | GTA 6 Filter",
+      "primary_keyword": "gta 6 ai prompt",
+      "secondary_keywords": [
+        "vice city art style prompt",
+        "leonida sunset cel shaded prompt",
+        "gta loading screen prompt"
+      ]
+    },
+    {
+      "path": "/chatgpt-gta-6-prompt",
+      "url": "https://gta6filter.online/chatgpt-gta-6-prompt",
+      "category": "guide",
+      "title": "ChatGPT GTA 6 Style Prompt (Copy & Paste) | GTA 6 Filter",
+      "primary_keyword": "chatgpt gta 6 prompt",
+      "secondary_keywords": [
+        "make a gta style image of this photo",
+        "recreate in the style of gta 6 art",
+        "chatgpt gta loading screen prompt"
+      ]
+    },
+    {
+      "path": "/blog",
+      "url": "https://gta6filter.online/blog",
+      "category": "blog",
+      "title": "GTA Filter Guides, Prompts & Tutorials | GTA 6 Filter",
+      "primary_keyword": "gta filter guides",
+      "secondary_keywords": [
+        "gta loading screen tutorials",
+        "gta 6 ai filter trends"
+      ]
+    },
+    {
+      "path": "/blog/gta-6-screen-ai",
+      "url": "https://gta6filter.online/blog/gta-6-screen-ai",
+      "category": "post",
+      "title": "GTA 6 Screen AI: CapCut Template & Online AI | GTA 6 Filter",
+      "primary_keyword": "gta 6 screen ai",
+      "secondary_keywords": [
+        "capcut gta 6 screen ai template",
+        "jdcapcut gta 6 screen ai",
+        "gta 6 screen ai without capcut"
+      ]
+    },
+    {
+      "path": "/blog/how-to-make-a-gta-loading-screen",
+      "url": "https://gta6filter.online/blog/how-to-make-a-gta-loading-screen",
+      "category": "post",
+      "title": "How to Make a GTA Loading Screen From Photos | GTA 6 Filter",
+      "primary_keyword": "how to make a gta loading screen",
+      "secondary_keywords": [
+        "gta v loading screen background",
+        "turn photo into gta loading screen",
+        "gta loading screen vs gta style"
+      ]
+    },
+    {
+      "path": "/pricing",
+      "url": "https://gta6filter.online/pricing",
+      "category": "platform",
+      "title": "Credits & Pricing — GTA 6 Filter Online",
+      "primary_keyword": "gta 6 filter pricing"
+    },
+    {
+      "path": "/about",
+      "url": "https://gta6filter.online/about",
+      "category": "platform",
+      "title": "About GTA 6 Filter — Vice City AI Art Studio",
+      "primary_keyword": "about gta 6 filter"
+    },
+    {
+      "path": "/contact",
+      "url": "https://gta6filter.online/contact",
+      "category": "platform",
+      "title": "Contact & Support — GTA 6 Filter Online",
+      "primary_keyword": "gta 6 filter support"
+    }
+  ]
+}
